@@ -1,6 +1,7 @@
 === _Задание_:
 
-image::../ChalychKadyrov_TemperatureSensor/Photo/1.jpg[]
+.Рисунок 1
+image::Photo/1.jpg[]
 
 === _Выполнение задания_:
 
