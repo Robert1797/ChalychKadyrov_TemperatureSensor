@@ -1,18 +1,17 @@
 === _Задание_:
 
-.Рисунок 1
 image::Photo/1.jpg[]
 
 === _Выполнение задания_:
 
 Для выполнения задания был подключен АЦП по следующим пунктам:
 
-image::../ChalychKadyrov_TemperatureSensor/Photo/2.jpg[]
+image::Photo/2.jpg[]
 
 Выбор некоторых параметров исходил из инструкции по подкючению температурного
 датчика:
 
-image::../ChalychKadyrov_TemperatureSensor/Photo/3.jpg[]
+image::Photo/3.jpg[]
 
 Был подключен 16 канал и 86 циклов.
 
@@ -20,7 +19,7 @@ image::../ChalychKadyrov_TemperatureSensor/Photo/3.jpg[]
 выходные данные, как это показано в пункте 8. Для этого необходимо воспользоваться
 таблицей из даташит.
 
-image::../ChalychKadyrov_TemperatureSensor/Photo/4.jpg[]
+image::Photo/4.jpg[]
 
 Также понятно, что показатель Vsense должен быть в вольтах, поэтому значения
 на выходе DATA должны быть умножены на коэффициент равный 4096/3.3.
@@ -90,4 +89,4 @@ int main()
 
 === _Результат работы программы
 
-image::../ChalychKadyrov_TemperatureSensor/Photo/5.jpg[]
+image::Photo/5.jpg[]
